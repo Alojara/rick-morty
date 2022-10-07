@@ -1,0 +1,7 @@
+{
+  "name": "vi_7_10",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
